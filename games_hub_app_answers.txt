@@ -8,7 +8,7 @@
 
 3. What are the the responsibilities of server.js?
 
-  The server.js is responsible for linking the App or view to the Router and then Database.
+  The server.js is responsible for using CORS to script the commands to direct the flow of information coming and going from the DB.
 
 4. What are the responsibilities of the gamesRouter?
 
